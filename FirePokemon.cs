@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Pokemon
 {
 	internal class FirePokemon : Pokemon
-	{
+	{ 
 		public FirePokemon(string name) : base(name, "Fire")
 		{
 		}
